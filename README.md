@@ -1,7 +1,7 @@
 # Camphish
 A tool for hacking webcams
 
-git clone 
+git clone https://github.com/Kihyu/Camphish.git
 <br>
 cd hack
 <br>
