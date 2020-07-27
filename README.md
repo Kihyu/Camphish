@@ -1,8 +1,11 @@
 # Camphish
 A tool for hacking webcams
 
+## How to use
 git clone https://github.com/Kihyu/Camphish.git
 <br>
 cd hack
 <br>
-bash camphish.sh
+sudo chmod +x camphish.sh
+<br>
+./camphish.sh
